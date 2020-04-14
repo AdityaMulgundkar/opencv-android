@@ -10,22 +10,22 @@ Include one of this dependencies in your module's build.gradle **dependencies** 
 dependencies {
 
   // opencv 3.4.1
-  implementation 'com.quickbirdstudios:opencv:3.4.1'
+  implementation 'com.mulgundkar:opencv_android:3.4.1'
   
   // opencv 3.4.4 with contribution packages
-  implementation 'com.quickbirdstudios:opencv:3.4.4-contrib'
+  implementation 'com.mulgundkar:opencv_android:3.4.4-contrib'
   
   // opencv 3.4.5
-  implementation 'com.quickbirdstudios:opencv:3.4.5'
+  implementation 'mulgundkar:opencv_android:3.4.5'
  
   // opencv 4.0.1
-  implementation 'com.quickbirdstudios:opencv:4.0.1'
+  implementation 'mulgundkar:opencv_android:4.0.1'
   
   // opencv 4.1.0
-  implementation 'com.quickbirdstudios:opencv:4.1.0'
+  implementation 'mulgundkar:opencv_android:4.1.0'
   
   // opencv 4.1.0 with contribution packages
-  implementation 'com.quickbirdstudios:opencv:4.1.0-contrib'
+  implementation 'mulgundkar:opencv_android:4.1.0-contrib'
 }
 ```
 

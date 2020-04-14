@@ -93,25 +93,25 @@ apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
 ext {
-    bintrayOrg = 'quickbirdstudios'
-    bintrayRepo = 'android'
-    bintrayName = 'opencv'
+    bintrayOrg = 'adityamulgundkar'
+    bintrayRepo = 'flutter_opencv_android'
+    bintrayName = 'opencv_android'
 
-    publishedGroupId = 'com.quickbirdstudios'
-    libraryName = 'opencv'
-    artifact = 'opencv'
+    publishedGroupId = 'com.mulgundkar'
+    libraryName = 'opencv_android'
+    artifact = 'opencv_android'
 
     libraryDescription = 'QuickBird Studios Bundle for OpenCV'
 
-    gitUrl = 'https://github.com/quickbirdstudios/opencv-android'
-    siteUrl = 'http://quickbirdstudios.com'
+    gitUrl = 'https://github.com/AdityaMulgundkar/opencv-android'
+    siteUrl = 'http://mulgundkar.com'
 
 
     libraryVersion = '3.4.4-contrib'
 
-    developerId = 'quickbirdstudios'
-    developerName = 'QuickBird Studios GmbH'
-    developerEmail = 'contact@quickbirdstudios.com'
+    developerId = 'adityamulgundkar'
+    developerName = 'Aditya Mulgundkar'
+    developerEmail = 'adityamulgundkar.nmims@gmail.com'
 
     licenseName = '3-clause BSD License'
     licenseUrl = 'https://opencv.org/license.html'
